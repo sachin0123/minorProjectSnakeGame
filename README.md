@@ -1,2 +1,2 @@
 # minorProjectSnakeGame
-Game based on Java awt and swing.
+Simple game based on Java awt and swing.
